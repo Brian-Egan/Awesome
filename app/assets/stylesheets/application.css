@@ -11,3 +11,14 @@
  *= require_self
  *= require_tree .
  */
+
+
+.pirate {
+	border: 1px solid grey;
+	background-color: #252525;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 100px;
+	float: left;
+}
